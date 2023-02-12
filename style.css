@@ -12,3 +12,12 @@ banner{
     
    
 }
+
+.banner{
+    background-image: url(/images/banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    display: block;
+    background-color: gray;
+    opacity: 0.8;
+}
